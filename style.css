@@ -392,5 +392,6 @@
      
   /* front page cleanups */
   .content_menu, .button, header, .content_body table { background-color: rgb(35, 35, 35); border: rgba(0, 0, 0, 0); }
+  .content_body table, .button { margin-left: auto; margin-right: auto; width: 100%;}
    
 }
