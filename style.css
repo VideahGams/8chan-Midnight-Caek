@@ -391,7 +391,7 @@
   .ad-plea { display:none !important; }
      
   /* front page cleanups */
-  .content_menu, .button, header, .content_body table { background-color: rgb(35, 35, 35); border: rgba(0, 0, 0, 0); }
-  .content_body table, .button { margin-left: auto; margin-right: auto; width: 100%;}
+  .content_menu, .content_body a, header, .content_body table { background-color: rgb(35, 35, 35); border: rgba(0, 0, 0, 0); }
+  .content_body table, .content_body a { margin-left: auto; margin-right: auto; width: 100%;}
    
 }
